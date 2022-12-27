@@ -1,13 +1,11 @@
-import React from "react";
-  
+import React from "react";  
 const Join = () => {
   return (
     <div>
       <h1>
-   Join Cool Community X
+   Join this cooll Community a coding group for students
       </h1>
     </div>
   );
 };
-  
 export default Join;
